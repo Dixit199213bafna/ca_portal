@@ -1,0 +1,7 @@
+.questionare {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    justify-content: space-between;
+    position: relative;
+}
